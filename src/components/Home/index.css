@@ -1,0 +1,34 @@
+/* Write your CSS here */
+.Main-con-Home-page {
+  min-height: 100vh;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 50px;
+}
+.Team-Card-logo-Top-Con {
+  display: flex;
+  justify-content: center;
+}
+.Logo-Heading {
+  font-family: 'Bree Serif';
+  color: #ffffff;
+  font-size: 35px;
+  padding-left: 25px;
+}
+.Ipl-Logo-Img {
+  height: 80px;
+}
+.Ul-Team-Card {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.loder-Place {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

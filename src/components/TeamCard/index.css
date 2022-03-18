@@ -1,0 +1,36 @@
+/* Write your CSS here */
+* {
+  font-family: 'Bree Serif';
+}
+.Li-Team-Card {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  align-items: center;
+  padding: 10px 20px 10px 20px;
+  background-color: #ffffff33;
+  min-width: 47%;
+  width: 300px;
+  height: 150px;
+  margin: 5px;
+  flex-wrap: nowrap;
+  border: 2px solid #ffffff;
+  border-radius: 16px;
+}
+.Team-Img {
+  width: 80px;
+}
+.name-Tag-display {
+  font-size: 25px;
+  color: #ffffff;
+  flex-wrap: wrap;
+  text-align: left;
+  padding-left: 20px;
+  font-weight: 400;
+  margin: auto;
+}
+.blog-item-link {
+  color: #000000;
+  text-decoration: none;
+  display: flex;
+}

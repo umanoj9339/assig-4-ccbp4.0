@@ -1,0 +1,55 @@
+/* Write your CSS here */
+* {
+  font-family: 'Bree Serif';
+}
+.Latest-Match-Main-Con {
+  background-color: #1e293b;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border: 2px solid #475569;
+  border-radius: 12px;
+  padding: 40px;
+  color: #ffffff;
+}
+.Latest-Match-details-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 30%;
+}
+.date-Latest-match {
+  font-size: 25px;
+}
+.decoration-latest-match {
+  font-size: 25px;
+}
+.latest-match-img-con {
+  display: flex;
+  justify-content: center;
+  width: 30%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin: auto;
+}
+.latest-match-Con-Inn-Details-Con {
+  display: flex;
+  flex-direction: column;
+  text-align: end;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  width: 30%;
+}
+.img-latest-match {
+  width: 300px;
+  height: 300px;
+}
+.Inn-details {
+  font-size: 25px;
+  margin-top: 0px;
+  font-weight: 700;
+}
+.inn-value-details {
+  font-size: 18px;
+  margin-top: 0px;
+}
